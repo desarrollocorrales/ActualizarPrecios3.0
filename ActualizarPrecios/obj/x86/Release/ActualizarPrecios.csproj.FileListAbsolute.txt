@@ -1,0 +1,103 @@
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\bin\Release\ActualizarPrecios.exe.config
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\bin\Release\ActualizarPrecios.exe
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\bin\Release\ActualizarPrecios.pdb
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\bin\Release\AccSettings.dll
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\bin\Release\Sofbr.Utils.dll
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\bin\Release\AccSettings.pdb
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_Principal.resources
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Properties.Resources.resources
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.exe
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.pdb
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.csprojResolveAssemblyReference.cache
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.csproj.GenerateResource.Cache
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\bin\Release\Actualizar.pwd
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\bin\Release\ActualizarPrecios.exe.config
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\bin\Release\ActualizarPrecios.exe
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\bin\Release\ActualizarPrecios.pdb
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\bin\Release\Seguridad.dll
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\bin\Release\Seguridad.pdb
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_Confirmacion.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_NoActualizados.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_Principal.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Properties.Resources.resources
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.exe
+C:\Users\Desarrollo\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.pdb
+D:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\bin\Release\ActualizarPrecios.exe.config
+D:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.exe
+D:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.pdb
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\bin\Release\ActualizarPrecios.exe.config
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.exe
+D:\Dropbox\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.pdb
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\bin\Release\ActualizarPrecios.exe.config
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.exe
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.pdb
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\bin\Release\Actualizar.pwd
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\bin\Release\ActualizarPrecios.exe
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\bin\Release\ActualizarPrecios.pdb
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\bin\Release\Seguridad.pdb
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.csprojResolveAssemblyReference.cache
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_Confirmacion.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_NoActualizados.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_Principal.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Properties.Resources.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.csproj.GenerateResource.Cache
+C:\Users\Guillermo\Desktop\ActualizarPrecios\ActualizarPrecios\bin\Release\Actualizar.pwd
+C:\Users\Guillermo\Desktop\ActualizarPrecios\ActualizarPrecios\bin\Release\ActualizarPrecios.exe.config
+C:\Users\Guillermo\Desktop\ActualizarPrecios\ActualizarPrecios\bin\Release\ActualizarPrecios.exe
+C:\Users\Guillermo\Desktop\ActualizarPrecios\ActualizarPrecios\bin\Release\ActualizarPrecios.pdb
+C:\Users\Guillermo\Desktop\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_Confirmacion.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_NoActualizados.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_Principal.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Properties.Resources.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.csproj.GenerateResource.Cache
+C:\Users\Guillermo\Desktop\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.exe
+C:\Users\Guillermo\Desktop\ActualizarPrecios\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.pdb
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios V2(Productos)\ActualizarPrecios\bin\Release\ActualizarPrecios.exe.config
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.exe
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.pdb
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios V2(Productos)\ActualizarPrecios\bin\Release\Actualizar.pwd
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios V2(Productos)\ActualizarPrecios\bin\Release\ActualizarPrecios.exe
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios V2(Productos)\ActualizarPrecios\bin\Release\ActualizarPrecios.pdb
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.csprojResolveAssemblyReference.cache
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_Confirmacion.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_NoActualizados.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_Principal.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Properties.Resources.resources
+G:\Dropbox\Desarrollos\Codigo Fuente\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.csproj.GenerateResource.Cache
+C:\Users\Guillermo\Desktop\ActualizarPrecios V2(Productos)\ActualizarPrecios\bin\Release\Actualizar.pwd
+C:\Users\Guillermo\Desktop\ActualizarPrecios V2(Productos)\ActualizarPrecios\bin\Release\ActualizarPrecios.exe.config
+C:\Users\Guillermo\Desktop\ActualizarPrecios V2(Productos)\ActualizarPrecios\bin\Release\ActualizarPrecios.exe
+C:\Users\Guillermo\Desktop\ActualizarPrecios V2(Productos)\ActualizarPrecios\bin\Release\ActualizarPrecios.pdb
+C:\Users\Guillermo\Desktop\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\firmas.GUIs.frmAcceso.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_Confirmacion.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_NoActualizados.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_Principal.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Properties.Resources.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Relacion.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.csproj.GenerateResource.Cache
+C:\Users\Guillermo\Desktop\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.exe
+C:\Users\Guillermo\Desktop\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.pdb
+C:\Users\Guillermo\Desktop\ActualizarPrecios V2(Productos)\ActualizarPrecios\obj\x86\Release\ExpandCollapsePanelDemo.GUIs.frmSiNoDialog.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\bin\Release\ActualizarPrecios.exe.config
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.exe
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.pdb
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\obj\x86\Release\firmas.GUIs.frmAcceso.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\obj\x86\Release\ExpandCollapsePanelDemo.GUIs.frmSiNoDialog.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.frm_Articulos.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_Confirmacion.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_NoActualizados.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Frm_Principal.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Properties.Resources.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Relacion.resources
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.csproj.GenerateResource.Cache
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\bin\Release\Actualizar.pwd
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\bin\Release\ActualizarPrecios.exe
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\bin\Release\ActualizarPrecios.pdb
+C:\Users\Guillermo\Desktop\ActualizarPrecios V3\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.Form1.resources
+G:\Github\ActualizarPrecios V3\ActualizarPrecios\bin\Release\ActualizarPrecios.exe.config
+G:\Github\ActualizarPrecios V3\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.exe
+G:\Github\ActualizarPrecios V3\ActualizarPrecios\obj\x86\Release\ActualizarPrecios.pdb

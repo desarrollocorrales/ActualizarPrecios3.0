@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8E9050C8-5693-41C1-B9D7-69FD6082801B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ActualizarPrecios</RootNamespace>
+    <AssemblyName>ActualizarPrecios</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>ActualizarPrecios.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>dollar_currency_sign.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AccSettings">
+      <HintPath>..\..\..\..\Program Files\ACC\AdminAcc\AccSettings.dll</HintPath>
+    </Reference>
+    <Reference Include="FirebirdSql.Data.FirebirdClient">
+      <HintPath>..\..\..\..\..\Downloads\FirebirdSql.Data.FirebirdClient.dll</HintPath>
+    </Reference>
+    <Reference Include="Seguridad">
+      <HintPath>..\..\..\..\..\..\..\respaldo lap\documentos\Desarrollo\Los Corrales\Encriptador\Encriptador\bin\Debug\Seguridad.dll</HintPath>
+    </Reference>
+    <Reference Include="Sofbr.Utils">
+      <HintPath>..\..\Control de Asistencias\Nuevo Proyecto Marzo 2013\AccNominas\AccAsistencia\bin\Debug\Sofbr.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\ArticuloBascula.cs" />
+    <Compile Include="Clases\ArticuloPrecios.cs" />
+    <Compile Include="Clases\Consultas.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAcceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAcceso.designer.cs">
+      <DependentUpon>frmAcceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSiNoDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSiNoDialog.designer.cs">
+      <DependentUpon>frmSiNoDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Articulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Articulos.Designer.cs">
+      <DependentUpon>frm_Articulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Confirmacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Confirmacion.Designer.cs">
+      <DependentUpon>Frm_Confirmacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_NoActualizados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_NoActualizados.Designer.cs">
+      <DependentUpon>Frm_NoActualizados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Principal.Designer.cs">
+      <DependentUpon>Frm_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Relacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relacion.Designer.cs">
+      <DependentUpon>Relacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilerias.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAcceso.resx">
+      <DependentUpon>frmAcceso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSiNoDialog.resx">
+      <DependentUpon>frmSiNoDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Articulos.resx">
+      <DependentUpon>frm_Articulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Confirmacion.resx">
+      <DependentUpon>Frm_Confirmacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_NoActualizados.resx">
+      <DependentUpon>Frm_NoActualizados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Principal.resx">
+      <DependentUpon>Frm_Principal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Relacion.resx">
+      <DependentUpon>Relacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Actualizar.pwd">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="app.config" />
+    <None Include="Properties\DataSources\ActualizarPrecios.Clases.ArticuloBascula.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dollar_currency_sign.ico" />
+    <None Include="Resources\relacionar.png" />
+    <None Include="Resources\product.png" />
+    <None Include="Resources\INICIO.png" />
+    <None Include="Resources\actualizarD.png" />
+    <None Include="Resources\terminar2.png" />
+    <None Include="Resources\terminar1.png" />
+    <None Include="Resources\guardar2.png" />
+    <None Include="Resources\guardar1.png" />
+    <None Include="Resources\menos2.png" />
+    <None Include="Resources\menos1.png" />
+    <None Include="Resources\mas2.png" />
+    <None Include="Resources\mas1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

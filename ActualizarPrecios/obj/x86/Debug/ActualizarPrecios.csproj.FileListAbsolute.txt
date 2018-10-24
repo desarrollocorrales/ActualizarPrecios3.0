@@ -1,0 +1,15 @@
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\bin\Debug\ActualizarPrecios.exe.config
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\bin\Debug\ActualizarPrecios.exe
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\bin\Debug\ActualizarPrecios.pdb
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\bin\Debug\AccSettings.dll
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\bin\Debug\Sofbr.Utils.dll
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\bin\Debug\AccSettings.pdb
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\obj\x86\Debug\ActualizarPrecios.Frm_Principal.resources
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\obj\x86\Debug\ActualizarPrecios.Properties.Resources.resources
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\obj\x86\Debug\ActualizarPrecios.exe
+C:\Desarrollos\Desarrollos .Net\ActualizarPrecios\ActualizarPrecios\obj\x86\Debug\ActualizarPrecios.pdb
